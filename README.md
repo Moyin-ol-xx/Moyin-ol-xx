@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moyin
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: sulymanbashirat14@gmail.com or 09030499725
 
